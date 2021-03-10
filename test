@@ -1,1 +1,10 @@
-El Chocobbo
+git pull origin master --allow-unrelated-histories
+
+
+chmod u+x deploy.sh
+
+
+eval $(ssh-agent)
+
+
+ssh-add
